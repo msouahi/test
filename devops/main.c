@@ -4,6 +4,7 @@
 int main()
 {
     printf("Hello Github!\n");
-    printf("Hello again")
+    printf("Hello again");
+    printf("add a first feature");
     return 0;
 }
